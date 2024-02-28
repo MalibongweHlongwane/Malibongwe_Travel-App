@@ -68,7 +68,7 @@ const Footer = () => {
         </div>
 
         <div className="border bg-gray-20"/>
-        <p className="regular-14 w-full text-center text-gray-30">2024 Hilink | All rights reserved</p>
+        <p className="regular-14 w-full text-center text-gray-30">2024 Malibongwe Hlongwane | All rights reserved</p>
       </div>
     </footer>
   )
